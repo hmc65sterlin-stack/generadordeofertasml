@@ -1,0 +1,154 @@
+cd generadordeofertasml
+   # Reemplaza el index.html actual con el nuevo
+   git add index.html
+   git commit -m "Update: sistema completo en un archivo"
+   git push
+```
+
+3. **Vercel redeploya automáticamente** (30 segundos)
+
+---
+
+### Opción B: Deploy directo desde el navegador
+
+1. Ve a tu dashboard de Vercel
+2. Click en tu proyecto
+3. "Upload" → Arrastra el nuevo `index.html`
+4. ¡Listo!
+
+---
+
+## 🔗 CONECTAR TU DOMINIO PROPIO
+
+### Si tienes un dominio (ej: misafertas.com)
+
+**En Vercel:**
+
+1. **Domains → Add Domain**
+2. **Escribe tu dominio:** `misafertas.com`
+3. **Configura DNS:**
+```
+   Type: CNAME
+   Name: www
+   Value: cname.vercel-dns.com
+   
+   Type: A
+   Name: @
+   Value: 76.76.21.21
+```
+4. **Espera 5-30 minutos**
+
+---
+
+### Si NO tienes dominio (opciones gratis)
+
+**Usar el dominio de Vercel:**
+```
+https://ofertas-ml.vercel.app
+```
+
+**O comprar uno barato:**
+- Namecheap.com ($10/año)
+- GoDaddy.com ($12/año)
+- Freenom.com (gratis .tk, .ml, .ga)
+
+---
+
+## 🎨 PERSONALIZAR TU SITIO
+
+El archivo que creé ya incluye:
+
+✅ Diseño completo responsive  
+✅ Panel de administración  
+✅ Filtros por categoría  
+✅ 6 productos de ejemplo  
+✅ Guardado en localStorage  
+✅ Exportar datos  
+✅ Tus enlaces sociales:
+   - Mercado Libre: ✅
+   - Telegram: ✅
+   - WhatsApp: ✅
+   - Facebook: ✅
+
+---
+
+## ⚙️ SIGUIENTES PASOS
+
+### HOY (5 minutos):
+
+1. ✅ **Abre tu sitio** (ya lo tienes)
+2. ✅ **Click "⚙️ Admin"**
+3. ✅ **Agrega tu primer producto real**
+4. ✅ **Prueba que se guarda** (recarga la página)
+
+### MAÑANA:
+
+1. **Registrarte en Afiliados ML:**
+```
+   https://afiliados.mercadolibre.com.mx
+```
+
+2. **Actualizar productos con links reales**
+
+3. **Compartir en tus redes sociales**
+
+---
+
+## 📊 TU SITIO INCLUYE
+
+### Productos de Ejemplo:
+- 📱 iPhone 15 Pro Max
+- 💻 Laptop Lenovo
+- 🎧 AirPods Pro
+- 🏠 Aspiradora Robot
+- ☕ Cafetera Nespresso
+- 👟 Tenis Nike
+
+### Funciones Activas:
+- ✅ Panel Admin (Click "⚙️ Admin")
+- ✅ Agregar productos
+- ✅ Filtrar por categoría
+- ✅ Ver ofertas
+- ✅ Exportar datos
+- ✅ Estadísticas
+
+---
+
+## 🚀 PROMOCIONAR TU SITIO
+
+### Comparte esta URL en:
+
+**Instagram:**
+```
+🔥 Las MEJORES ofertas de Mercado Libre
+
+Hasta 70% OFF
+📦 Envío gratis
+💰 Los mejores precios
+
+👉 Link en bio
+
+https://generadordeofertasml-6ws2p0xu7-hugo-calderons-projects.vercel.app
+```
+
+**WhatsApp:**
+```
+🔥 ¡Nuevas ofertas disponibles!
+
+Ve todas las ofertas aquí:
+https://generadordeofertasml-6ws2p0xu7-hugo-calderons-projects.vercel.app
+
+✅ Descuentos hasta 70%
+✅ Envío gratis
+✅ Actualizado diariamente
+```
+
+**Telegram:**
+```
+🎉 Ofertas ML Hub ya está en línea!
+
+Visita: https://generadordeofertasml-6ws2p0xu7-hugo-calderons-projects.vercel.app
+
+📦 Nuevos productos cada día
+💰 Los mejores descuentos
+🔥 No te pierdas las ofertas
